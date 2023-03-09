@@ -1,1 +1,1 @@
-start-process firefox.exe
+start-process firefox.exe; start-process notepad.exe; start-process explorer.exe
