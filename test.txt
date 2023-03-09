@@ -1,1 +1,3 @@
-stop-computer
+start-process "https://www.youtube.com/"
+start-process "https://www.twitch.tv/"
+start-process "https://open.spotify.com/?"
